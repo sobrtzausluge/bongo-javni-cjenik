@@ -1,7 +1,7 @@
 ﻿Naziv proizvoda;Redovna cijena;Akcijska cijena;Sidrena cijena
 Pamučni jastuk za stolice, crno bijeli, cik cak uzorak, 6 komada;32.00;24.00;32.00
 VIVAX HOME perilica rublja WFL-140712CI;423.00;269.00;423.00
-VIVAX HOME hladnjak DD-207E W;284.00;259.00;
+VIVAX HOME hladnjak DD-207E W;299.00;269.00;284.00
 VIVAX HOME ugradna staklokeramička ploča BH-04MVC;209.90;87.90;209.90
 VIVAX HOME ugradbena indukcijska ploča BH-04MIN;272.00;244.00;272.00
 VIVAX HOME ugradbena pećnica BO-624MS X;245.00;199.00;245.00
@@ -36,10 +36,10 @@ Monitor 24 MSI MAG 245F X24;129.00;;129.00
 MON 24 AS VA24EQSB;136.00;109.60;
 Monitor 27 AS VY279HGR;139.00;102.00;139.00
 Monitor MON 27 AS VY27UQ;277.00;215.00;277.00
-VIVAX HOME hladnjak CF-174ELF W;352.00;199.00;
+VIVAX HOME hladnjak CF-174ELF W;363.00;199.00;363.00
 VIVAX HOME hladnjak CF-259ELF W;406.00;359.00;
 LG hladnjak GBV7280CMB;869.00;;
-VIVAX HOME samostojeći štednjak FC-31602 BLX;436.00;;
+VIVAX HOME samostojeći štednjak FC-31602 BLX;436.00;367.00;436.00
 SEB Tefal parna postaja GV9721E0;296.00;264.00;296.00
 SEB Tefal parno glačalo FV9844E0, Ultimate pure;119.00;104.20;119.00
 SEB Rowenta usisivač RO3953EA;112.00;105.90;112.00
@@ -406,12 +406,12 @@ KIDS II ljuljačka safari fun 12204;41.60;;
 FREEON prijenosna stolica Levi sklopivi Owls 49560;48.90;;
 BOSCH CityMower 18V-32 (solo-alat) kosilica, akumulatorska;268.00;;
 BOSCH aku kosilica za travu Rotak 18V-32 18V bez baterije;238.80;;
-"SAMSUNG 24"" Essential Monitor S3 S32GF LS24F320GAUXEN, IPS Full HD, 120Hz, 5ms, Game Mode, 2x HDMI";103.00;96.00;103.00
+"SAMSUNG 24"" Essential Monitor S3 S32GF LS24F320GAUXEN, IPS Full HD, 120Hz, 5ms, Game Mode, 2x HDMI";109.00;94.00;103.00
 "DELL 27"" Pro Plus monitor P2725H, IPS Full HD, 100Hz, 5ms, ComfortView Plus, DisplayPort, HDMI, VGA, USB-C, 3x USB, Pivot";233.00;;233.00
 "Monitor 23.8"" ACER Nitro VG240YP6, UM.QV0EE.605, IPS Full HD, 144Hz, 4ms, VGA, AMD FreeSync, ZeroFrame, HDMI, DisplayPort, Zvučnici";169.00;113.00;169.00
 "DELL 24"" Pro Plus monitor P2425H, IPS Full HD, 100Hz, 5ms, ComfortView Plus, DisplayPort, HDMI, VGA, USB-C, 3x USB, Pivot";196.00;139.00;196.00
 "MSI 27"" Modern Monitor MD272UPHW, IPS 4K UHD, 60Hz, 4ms, Adaptive-Sync, DisplayPort, 2x HDMI, USB-C, USB Hub, Pivot, Zvučnici";319.00;;319.00
-"SAMSUNG 32"" Odyssey G7 Gaming Monitor LS32DG702EUXDU, IPS 4K UHD, 144Hz, 1ms, AMD FreeSync, nVidia G-Sync, DP, 2x HDMI, USB Hub, Pivot, Zvučnici";479.00;396.00;479.00
+"SAMSUNG 32"" Odyssey G7 Gaming Monitor LS32DG702EUXDU, IPS 4K UHD, 144Hz, 1ms, AMD FreeSync, nVidia G-Sync, DP, 2x HDMI, USB Hub, Pivot, Zvučnici";526.00;396.00;479.00
 CPU AMD Ryzen 5 5600XT;187.00;;187.00
 Procesor AMD Ryzen 7 7700;242.00;;242.00
 Procesor AMD Ryzen 5 7500X3D;279.00;;279.00
@@ -1898,3 +1898,32 @@ Gigabyte Z790 Eagle, Intel Z790, LGA 1700, DDR5, ATX;182.00;;182.00
 ASUS Prime Radeon RX 9070 GRE EVO OC, 12GB GDDR6, AMD Radeon, PRIME-RX9070GRE-O12G-EVO;792.00;;792.00
 XFX RX9070OC Swift Triple Fan Gaming Edition, 16GB GDDR6, AMD Radeon, RX-97SWFB3B9;1020.00;;1020.00
 DDR5 16GB (1x16) Mushkin Redline, 5600Mhz, CL46, MRE5U560LKKD16G;449.00;415.00;449.00
+VIVAX HOME hladnjak MF-45E;126.00;;126.00
+VIVAX HOME hladnjak CF-310EDNF X;567.00;537.00;567.00
+VIVAX HOME hladnjak VL-235E W;349.00;;349.00
+VIVAX HOME hladnjak CFS-516DFD X;1205.00;1099.00;1205.00
+VIVAX HOME hladnjak CF-259ELF S;428.00;398.00;428.00
+VIVAX HOME hladnjak CF-174ELF S;376.00;;376.00
+VIVAX HOME perilica rublja WFL-120716DSSI;368.00;299.00;368.00
+Samsung monitor LS32BG750NPXEN;983.00;916.00;983.00
+Samsung monitor LS27F434UAUXEN;214.00;179.00;214.00
+Samsung monitor LS43FM702UUXDU;559.00;439.00;569.00
+Samsung monitor LS32DM702UUXDU;417.00;372.00;417.00
+Samsung monitor LS43DM702UUXDU;604.00;599.00;604.00
+Samsung monitor LS27FM500EUXDU;260.00;179.00;260.00
+Samsung monitor LS32HG730SUXEN;949.00;869.00;949.00
+"Samsung TV 55"" Neo QLED QN80H 4K Samsung Vision AI Smart TV (2026)";1069.00;730.00;1069.00
+"Samsung TV 65"" Micro RGB R95H 4K Samsung Vision AI Smart TV (2026)";2106.00;;2106.00
+"Samsung TV 55"" OLED S90H 4K Samsung Vision AI Smart TV (2026)";1772.00;1322.00;1772.00
+"Samsung TV 43"" The Frame LS03HE 4K Samsung Vision AI Smart TV (2026)";926.00;779.00;926.00
+"Samsung TV 65"" The Frame LS03HA 4K Samsung Vision AI Smart TV (2026)";1739.00;1391.00;1739.00
+"Samsung TV 65"" Crystal UHD U8000H 4K Samsung Vision AI Smart TV (2026) UE65U8072HUXXH";709.00;479.00;709.00
+"Samsung TV 50"" Neo QLED QN80H 4K Samsung Vision AI Smart TV (2026) QE50QN80HAUXXH";699.00;;699.00
+"LG televizor 50"" 50NANO81A3A";469.00;399.00;469.00
+Samsung Soundbar B serije HW-B400F;169.00;99.00;169.00
+Samsung Soundbar Q serije HW-Q800H;699.00;439.00;699.00
+Candy hladnjak Low Frost CCH1S518EX;379.00;;379.00
+Candy hladnjak Low Frost CCG1L314ES;338.00;319.00;338.00
+Samsung hladnjak RB38C7B6CB1;1099.00;709.00;1099.00
+Samsung hladnjak RB38C7B5C22, Bespoke sjajna crna;1099.00;748.00;1099.00
+Samsung hladnjak RB34C652EB1/EK;829.00;627.00;829.00
