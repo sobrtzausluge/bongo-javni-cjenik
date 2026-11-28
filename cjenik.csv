@@ -342,7 +342,7 @@ Sušilo za kosu Remington D5715;41.90;;
 Sušilo za kosu Remington D5720;46.00;36.00;
 Pegla za kosu Remington S5901 Coconut;59.00;;
 Pegla za kosu Remington S8598 Keratin Protect Intelligent;104.00;;
-Pegla za kosu Philips BHS838/00 SenseIQ;179.00;155.00;
+Pegla za kosu Philips BHS838/00 SenseIQ;179.00;155.00;179.00
 Pegla za kosu Remington S8540 Keratin Protect;69.00;;
 Pegla za kosu Remington S9001 Hydraluxe Pro;189.00;;
 Pegla za kosu Remington S8901 Hydraluxe;81.00;;
@@ -1403,20 +1403,13 @@ DI Znaš li tko si?, društvena igra (Copy);15.30;;
 DI, društvena igra, Super Doctor;13.20;;
 GAMES Pictonary Air 2, društvena igra;43.35;;
 PC MSG Gamer R5 a135;1299.00;1199.00;1299.00
-PC MSG Gamer i5 i116;1782.00;;
-PC MSG Gamer R5 a125;2149.00;;
-PC LN Legion T5 30AGB10, 90YJ009UXT;3162.00;;
-PC LN LOQ Tower 26ADR10, 91DF007HSC;1429.00;;
-PC LN Legion T5 30AGB10, 90YJ009TSC;2364.00;;
+PC LN Legion T5 30AGB10, 90YJ009UXT;3315.00;;3162.00
+PC LN LOQ Tower 26ADR10, 91DF007HSC;1429.00;;1429.00
 PC AC Revo Box AI Mini RB102-LNL;1162.00;;
 PC AIO AC Aspire C24-2G, DQ.BPREX.001;1035.00;;
-PC MSG Gamer R5 a123;1999.00;1779.00;
 PC AIO HP 32-c1011ny, D86B4EA;2717.00;;
-PC MSG Gamer i5 i114;1699.00;1519.00;
-PC MSG Gamer R7 a104;1699.00;;
 PC HP Z2 TWR G1i, D06G8ET;5292.00;;
-PC LN Legion T5 30AGB10, 90YJ008YXT;2113.00;;
-PC LN LOQ Tower 26ADR10, 91DF008HSC;1868.00;;
+PC LN Legion T5 30AGB10, 90YJ008YXT;2164.00;;
 PC LN TC M70s Gen 6, 12YK002YCR;1455.00;;
 PC AIO AC Aspire C27-2G, DQ.BPQEX.007;1199.00;1065.00;
 PC AIO AC Aspire C27-2G, DQ.BPQEX.006;1102.00;;
@@ -1683,29 +1676,22 @@ Cratos Business Starter v0_1 - Intel i3-14100F, 16GB DDR4, 512GB NVMe SSD, Nvidi
 Cratos Classy Suit Lite - AMD Ryzen 5 8600G, 8GB DDR5, 512GB NVMe SSD, Radeon Graphics, FreeDOS;699.00;;699.00
 Cratos Business Starter v2 - Intel i5-14400, 16GB DDR4, 512GB NVMe SSD, Intel UHD, FreeDOS;699.00;639.00;699.00
 Cratos Business Starter v1_1 - Intel i3-14100, 16GB DDR4, 512GB NVMe SSD, Intel UHD, Windows 11 Professional;709.00;669.00;709.00
-Cratos Mirage - AMD Ryzen 5 7500F, 16GB DDR5, 1TB NVME SSD, RTX 5060 TI 16GB, FreeDOS;1840.00;;
+Cratos Mirage - AMD Ryzen 5 7500F, 16GB DDR5, 1TB NVME SSD, RTX 5060 TI 16GB, FreeDOS;2197.00;2099.00;2197.00
 Cratos Spark - Intel i5-12400F, 16GB DDR4, 1TB NVMe SSD, RTX 3050 6GB, FreeDOS;1149.00;1065.00;1099.00
-Cratos Typhoon - Ryzen 7 7800X3D, 32GB DDR5, 1TB NVMe SSD, RTX 5070 TI 16GB, FreeDOS;2940.00;;
-Cratos Game Ready Max - AMD Ryzen 7 5700, 16GB DDR4, 1TB NVMe SSD, RTX 5060 TI 16GB, Windows 11 Professional;1804.00;;
-Cratos Max Gamer - AMD Ryzen 7 5700, 16GB DDR4, 1TB NVMe SSD, RX 9060 XT 16GB, FreeDOS;1413.00;;
-Cratos Firenze - Intel i5-14400F, 16GB DDR4, 1TB NVMe SSD, RX 9060 XT 16GB, FreeDOS;1455.00;;
-Cratos Optima Gamer Plus - AMD Ryzen 5 5600X, 16GB DDR4, 512GB NVMe SSD, RX 9060 XT 16GB, FreeDOS;1349.00;;
-Cratos Great Island - Intel i7-14700F, 16GB DDR4, 1TB NVMe SSD, RX 9060 XT 16GB, FreeDOS;1681.00;;
-Cratos Calamity Max - Intel Core i7-14700F, 16GB DDR4, 1TB NVMe SSD, RX 9070 16GB, FreeDOS;2004.00;;
-Cratos Calamity - Intel Core i5-14400F, 16GB DDR4, 1TB NVMe SSD, RX 9070 16GB, FreeDOS;1762.00;;
-Cratos ReSpawn - AMD Ryzen 7 5700, 16GB DDR4, 1TB NVMe SSD, RX 9070 16GB, FreeDOS;1734.00;;
+Cratos Typhoon - Ryzen 7 7800X3D, 32GB DDR5, 1TB NVMe SSD, RTX 5070 TI 16GB, FreeDOS;3759.00;3659.00;3759.00
+Cratos Firenze - Intel i5-14400F, 16GB DDR4, 1TB NVMe SSD, RX 9060 XT 16GB, FreeDOS;1828.00;1759.00;1828.00
+Cratos Optima Gamer Plus - AMD Ryzen 5 5600X, 16GB DDR4, 512GB NVMe SSD, RX 9060 XT 16GB, FreeDOS;1711.00;1599.00;1711.00
+Cratos Great Island - Intel i7-14700F, 16GB DDR4, 1TB NVMe SSD, RX 9060 XT 16GB, FreeDOS;2099.00;1999.00;2099.00
+Cratos Calamity Max - Intel Core i7-14700F, 16GB DDR4, 1TB NVMe SSD, RX 9070 16GB, FreeDOS;2311.00;2211.00;2311.00
+Cratos Calamity - Intel Core i5-14400F, 16GB DDR4, 1TB NVMe SSD, RX 9070 16GB, FreeDOS;2029.00;1899.00;2029.00
 Cratos Ownage - AMD Ryzen 5 5600, 16GB DDR4, 1TB NVMe SSD, RX 9070 16GB, FreeDOS;1681.00;1581.00;1681.00
 Cratos Wave - AMD Ryzen 5 5600X, 8GB DDR4, 1TB NVMe SSD, RTX 5060 8GB, FreeDOS;1511.00;1369.00;1511.00
 Cratos Game Ready - AMD Ryzen 5 5500, 16GB DDR4, 1TB NVMe SSD, RTX 5060 8GB, Windows 11 Professional;1605.00;1449.00;1605.00
 Cratos Eclipse - Intel i5-14400F, 16GB DDR4, 1TB NVMe SSD, RTX 5060 8GB, FreeDOS;1621.00;1469.00;1621.00
-Cratos Moonlight - Intel i5-14400F, 16GB DDR4, 1TB NVMe SSD, RTX 5060 TI 8GB, FreeDOS;1386.00;;
-Cratos Game Ready Ultra - AMD Ryzen 7 5700, 16GB DDR4, 1TB NVMe SSD, RTX 5060 TI 8GB, Windows 11 Professional;1507.00;;
-Cratos Rift Apart - Intel Ultra 7 265K, 16GB DDR5, 1TB SSD NVMe, RX 9070 XT 16GB, WiFi 6e, FreeDOS;2403.00;;
-Cratos Cataclysm - Intel Core i7-14700K, 16GB DDR5, 1TB NVMe SSD, RTX 5070 12GB GDDR7, FreeDOS;2574.00;;
-Cratos Blizzard - Ryzen 7 9800X3D, 32GB DDR5, 1TB NVMe SSD, RX 9070 XT 16GB, FreeDOS;2533.00;;
-Cratos SixSeven Aftershock - AMD Ryzen 9 9950X, 32GB DDR5, 1TB NVMe SSD, Nvidia RTX 5080 16GB, FreeDOS;3749.00;;
-Cratos Ultra Gamer Olympus - Intel Ultra 9 285K, 32GB DDR5, 1TB NVMe SSD, RTX 5080 16GB, FreeDOS;4178.00;;
-Cratos Infinity - Intel i9-14900K, 64GB DDR5, 2TB SSD NVMe, Nvidia RTX 5080 16GB, FreeDOS;4507.00;;
+Cratos Moonlight - Intel i5-14400F, 16GB DDR4, 1TB NVMe SSD, RTX 5060 TI 8GB, FreeDOS;1605.00;1499.00;1605.00
+Cratos Rift Apart - Intel Ultra 7 265K, 16GB DDR5, 1TB SSD NVMe, RX 9070 XT 16GB, WiFi 6e, FreeDOS;2829.00;2729.00;2829.00
+Cratos Cataclysm - Intel Core i7-14700K, 16GB DDR5, 1TB NVMe SSD, RTX 5070 12GB GDDR7, FreeDOS;2949.00;2849.00;2949.00
+Cratos Blizzard - Ryzen 7 9800X3D, 32GB DDR5, 1TB NVMe SSD, RX 9070 XT 16GB, FreeDOS;3147.00;;3147.00
 Lenovo ThinkCentre NEO 50s Gen 6, Intel Core Ultra 7 265, 16GB DDR5, 1TB SSD, 7xUSB, tipk./miš, WiFi/BT, Win 11 Pro + 3Y (13DM002FCR-W11P);1708.00;;
 Lenovo ThinkCentre NEO 50s Gen 6, Intel Core Ultra 5 225, 16GB DDR5, 1TB SSD, Wi-Fi/BT, Win 11 Pro + 3Y(13DM001CCR-W11P);1349.00;;
 Lenovo ThinkCentre NEO 55s Gen 6, AMD Ryzen 7 250, 16GB DDR5, 1TB SSD, 7xUSB, WiFi/BT, tipk./miš, Win 11 Pro + 3Y(13G0001PCR-W11P);1343.00;;
